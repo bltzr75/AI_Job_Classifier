@@ -1,0 +1,46 @@
+# Data files (except samples)
+data/*.csv
+!data/sample_data.csv
+data/*.json
+
+# Model files
+models/*.pkl
+models/*.joblib
+!models/model_info.md
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large files
+*.log
+*.bak
+
+# Original data files
+RLHF_to_label_group_1_or_2.csv
+RLHF_labeled_final.csv
+train_data.csv
+val_data.csv
+test_data.csv
+job_batches/
