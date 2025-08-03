@@ -1,0 +1,79 @@
+{
+  "validation_set": {
+    "accuracy": 0.886,
+    "macro_avg": {
+      "precision": 0.827,
+      "recall": 0.856,
+      "f1-score": 0.840
+    },
+    "weighted_avg": {
+      "precision": 0.892,
+      "recall": 0.886,
+      "f1-score": 0.888
+    },
+    "class_0_other": {
+      "precision": 0.943,
+      "recall": 0.908,
+      "f1-score": 0.925,
+      "support": 437
+    },
+    "class_1_ai": {
+      "precision": 0.710,
+      "recall": 0.803,
+      "f1-score": 0.754,
+      "support": 122
+    }
+  },
+  "test_set": {
+    "accuracy": 0.905,
+    "optimal_threshold": 0.471,
+    "macro_avg": {
+      "precision": 0.849,
+      "recall": 0.907,
+      "f1-score": 0.872
+    },
+    "weighted_avg": {
+      "precision": 0.919,
+      "recall": 0.905,
+      "f1-score": 0.909
+    },
+    "class_0_other": {
+      "precision": 0.973,
+      "recall": 0.904,
+      "f1-score": 0.937,
+      "support": 437
+    },
+    "class_1_ai": {
+      "precision": 0.725,
+      "recall": 0.910,
+      "f1-score": 0.807,
+      "support": 122
+    }
+  },
+  "confusion_matrix": {
+    "true_negatives": 395,
+    "false_positives": 42,
+    "false_negatives": 11,
+    "true_positives": 111
+  },
+  "model_comparison": {
+    "naive_bayes": {
+      "precision": 0.847,
+      "recall": 0.500,
+      "f1": 0.629,
+      "train_time": 2.24
+    },
+    "linear_svc": {
+      "precision": 0.723,
+      "recall": 0.811,
+      "f1": 0.764,
+      "train_time": 2.09
+    },
+    "logistic_regression": {
+      "precision": 0.710,
+      "recall": 0.803,
+      "f1": 0.754,
+      "train_time": "baseline"
+    }
+  }
+}

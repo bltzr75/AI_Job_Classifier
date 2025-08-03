@@ -1,0 +1,41 @@
+rank,feature,coefficient,indicates
+1,ai,5.663,AI/ML Job
+2,ml,4.041,AI/ML Job
+3,llm,3.426,AI/ML Job
+4,genai,3.018,AI/ML Job
+5,models,2.695,AI/ML Job
+6,ai engineer,2.647,AI/ML Job
+7,learning,2.585,AI/ML Job
+8,llms,2.469,AI/ML Job
+9,machine learning,2.132,AI/ML Job
+10,machine,2.122,AI/ML Job
+11,agents,2.031,AI/ML Job
+12,de,2.014,AI/ML Job
+13,model,1.908,AI/ML Job
+14,data scientist,1.794,AI/ML Job
+15,language,1.783,AI/ML Job
+16,nlp,1.759,AI/ML Job
+17,scientist,1.733,AI/ML Job
+18,artificial,1.572,AI/ML Job
+19,prompt,1.537,AI/ML Job
+20,ai ml,1.449,AI/ML Job
+1,manager,-1.242,Other Job
+2,marketing,-1.212,Other Job
+3,data engineer,-0.944,Other Job
+4,vision,-0.857,Other Job
+5,bi,-0.824,Other Job
+6,office,-0.806,Other Job
+7,web,-0.805,Other Job
+8,technology,-0.786,Other Job
+9,support,-0.738,Other Job
+10,google,-0.715,Other Job
+11,business,-0.712,Other Job
+12,developer,-0.7,Other Job
+13,networking,-0.692,Other Job
+14,computer vision ,-0.686,Other Job
+15,site,-0.671,Other Job
+16,sales,-0.666,Other Job
+17,high,-0.654,Other Job
+18,hardware,-0.63,Other Job
+19,excel,-0.623,Other Job
+20,strategy,-0.599,Other Job

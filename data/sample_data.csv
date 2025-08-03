@@ -1,0 +1,120 @@
+Label,Job_Title,Job_Description
+1,Applied AI Engineer,"Applied AI Engineer
+As an Applied AI Engineer, you'll work closely with customers and internal teams to translate business problems into AI-driven solutions. You'll be hands-on with AI workflows, and help bridge the gap between model capabilities and real-world impact.
+Responsibilities:
+
+Implement workflows and configure model behavior for customer solutions
+Build integrations between AI logic and deterministic building blocks
+Work with platform and research teams to surface platform-level improvements
+
+Requirements:
+
+4+ years experience in software engineering or research roles
+Experience building or integrating LLM-based solutions
+Ability to rapidly understand complex domains and translate them into structured prompts
+Comfortable working with real-time applications and production systems
+
+Nice to Have:
+
+Experience working with AI or LLM-based applications
+Experience working with B2B or enterprise customers"
+1,Data Scientist,"Data Scientist (Algorithmic Trading)
+We're seeking a highly analytical and detail-oriented Data Scientist to support our algorithmic trading strategies. You'll work closely with quants, traders, and engineers to analyze market data, optimize performance, and uncover actionable insights.
+Responsibilities:
+
+Analyze large datasets from various financial markets to identify trends, anomalies, and trading opportunities
+Build dashboards and reporting tools to monitor strategy performance and market behavior
+Collaborate with quants and traders to backtest and evaluate trading algorithms
+Perform data cleaning, validation, and enrichment to ensure quality and consistency
+Design and build internal machine learning workflows and infrastructure
+
+Requirements:
+
+BSc/MSc degree in Computer Science, Engineering from an elite university (MUST)
+At least 2 years of experience in a data-focused role
+At least 2 years of experience working in high-level software development
+Strong programming skills in Python, Java, and C++
+Solid understanding of statistics and time-series analysis
+Understanding of ML concepts and processes
+Familiarity with market data (equities, futures, options, etc.) is a plus"
+1,Senior GenAI Engineer,"Generative AI Specialist - Agentic AI Development
+Experience Level: Senior Level
+Role Overview:
+We're seeking an experienced Generative AI Specialist to design and implement sophisticated agentic AI systems that can autonomously handle complex workflows. You'll be responsible for architecting AI agents that can interact with various data sources, make intelligent decisions, and deliver actionable insights.
+Key Responsibilities:
+
+Design and deploy production-grade agentic AI systems that can autonomously process customer documents and queries
+Architect retrieval-augmented generation (RAG) pipelines for large-scale document management
+Implement multi-agent orchestration frameworks
+Develop robust context management systems for handling extensive customer data
+Create and optimize AI workflow automation
+Ensure AI system reliability, scalability, and compliance with industry regulations
+Implement comprehensive performance monitoring systems
+
+Required Qualifications:
+
+Minimum 2 years of hands-on experience developing and deploying agentic AI systems in production
+Proven track record of building AI agents that can autonomously handle complex tasks
+Strong experience with RAG architectures, vector databases, and document processing pipelines
+Experience with production deployment of AI systems including monitoring, testing, and optimization
+Knowledge of enterprise-grade AI infrastructure and MLOps practices
+Knowledge of AI safety, ethics, and compliance requirements"
+1,AI Architect,"AI Architect
+Role Overview:
+The AI Architect will own the technical architecture for AI-driven solutions, ensuring scalability, reliability, and alignment with business goals.
+Key Responsibilities:
+
+Design and document the architecture for generative AI solutions
+Evaluate and select appropriate models, frameworks, and infrastructure
+Define standards for data pipelines, model lifecycle management, and security
+Collaborate with engineering, data, and product teams
+Lead technical reviews and provide guidance on best practices
+Ensure compliance with data privacy, security, and ethical AI guidelines
+
+Required Qualifications:
+
+Bachelor's or Master's in Computer Science, Engineering, or related field
+7+ years of experience in software architecture, with 3+ years in AI/ML systems
+Deep understanding of generative AI models and deployment strategies
+Familiarity with model monitoring, drift detection, and responsible AI practices
+Experience architecting cloud-based AI solutions (AWS, Azure, GCP)
+Strong knowledge of data engineering, distributed systems, and API design
+Excellent communication and documentation skills
+Advanced level of English
+
+Preferred Qualifications:
+
+Experience with multi-modal generative models (text, image, audio)
+Prior experience in regulated industries (finance, healthcare, etc.)"
+1,Senior Deep Learning Engineer,"Deep Learning Engineer
+We are seeking a talented, self-driven and passionate Deep Learning Engineer who will bring both deep learning expertise and engineering skills to our unique domain of Optical Fiber Sensing.
+What You'll Do:
+
+Design and implement custom data libraries and formats for massive real-time data streams
+Work closely with engineering team to ensure robust, scalable data pipelines
+Leverage and extend data processing frameworks (e.g., Pandas, GeoPandas, Dask)
+Spearhead core deep learning initiatives to detect, classify, and track spatiotemporal events
+Deliver well-tested, reliable, and maintainable code
+Work alongside physicists, hardware engineers, data scientists, and field teams
+Harness advanced data analysis and visualization tools
+Continuously research new algorithms, technologies, and tools
+
+What You Bring:
+
+Advanced degree (M.Sc. or higher) in Computer Science, EE, Physics, or related field
+3+ years of industry experience in DL development and research
+3+ years of experience in software engineering roles
+Expertise in Deep Learning & ML frameworks (PyTorch, PyTorch Lightning)
+Proven track record in solving novel DL challenges
+Solid Python programming skills and production-ready code capabilities
+Strong data handling and modeling skills
+Excellent communication and teamwork skills
+
+Advantages:
+
+Experience writing Pandas extensions
+Publications in ML/DL fields
+Experience with seismic data and geophysics
+Experience with Audio-based DL or spatiotemporal data
+Familiarity with DevOps and Big Data infrastructure
+Experience with tracking and estimation algorithms"
